@@ -92,17 +92,17 @@ p {
 
   .photo:nth-child(2) {
     display: inline-block;
-    width: 33.333%;
+    width: 33.3333%;
   }
 
   .photo:nth-child(3) {
     display: inline-block;
-    width: 33.333%;
+    width: 33.3333%;
   }
 
   .photo:nth-child(4) {
     display: inline-block;
-    width: 33.333%;
+    width: 33.3333%;
   }
 
   .photo:nth-child(5) {
@@ -125,27 +125,27 @@ p {
 
   .photo:nth-child(1) {
     display: inline-block;
-    width: 66.666%;
+    width: 66.6666%;
   }
 
   .photo:nth-child(2) {
     display: inline-block;
-    width: 33.333%;
+    width: 33.3333%;
   }
 
   .photo:nth-child(3) {
     display: inline-block;
-    width: 33.333%;
+    width: 33.3333%;
   }
 
   .photo:nth-child(4) {
     display: inline-block;
-    width: 33.333%;
+    width: 33.3333%;
   }
 
   .photo:nth-child(5) {
     display: inline-block;
-    width: 33.333%;
+    width: 33.3333%;
   }
 
 }
