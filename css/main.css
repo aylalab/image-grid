@@ -24,6 +24,10 @@ body {
   width: 100%;
 }
 
+section {
+  margin: 0;
+}
+
 .photo:nth-child(2) {
   display: none;
 }
@@ -129,7 +133,7 @@ body {
 
   .photo:nth-child(5) {
     display: inline-block;
-    width: 32.8%
+    width: 32.8%;
   }
 
 }
